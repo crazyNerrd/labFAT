@@ -17,7 +17,7 @@ public class fibonacci
 		    count++;
 		    System.out.print(a+" ");
 		}
-		System.out.print(b);
+		System.out.print(Successfully run);
 		sc.close();
 	}
 }
